@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satyam-rjpt13/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satyam-rjpt13/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/satyam-rjpt13/DSA/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam-rjpt13/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/satyam-rjpt13/DSA/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
