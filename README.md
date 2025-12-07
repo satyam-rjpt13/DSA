@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
 | [1025-divisor-game](https://github.com/satyam-rjpt13/DSA/tree/master/1025-divisor-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/satyam-rjpt13/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/satyam-rjpt13/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sorting
 |  |
