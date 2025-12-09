@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/satyam-rjpt13/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/satyam-rjpt13/DSA/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/satyam-rjpt13/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
 | [1025-divisor-game](https://github.com/satyam-rjpt13/DSA/tree/master/1025-divisor-game) |
+| [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/satyam-rjpt13/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/satyam-rjpt13/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sorting
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
