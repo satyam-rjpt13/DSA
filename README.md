@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satyam-rjpt13/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satyam-rjpt13/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/satyam-rjpt13/DSA/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0045-jump-game-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyam-rjpt13/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam-rjpt13/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0045-jump-game-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0045-jump-game-ii) |
 | [1025-divisor-game](https://github.com/satyam-rjpt13/DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
