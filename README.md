@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/satyam-rjpt13/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/satyam-rjpt13/DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0045-jump-game-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam-rjpt13/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyam-rjpt13/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/satyam-rjpt13/DSA/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/satyam-rjpt13/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
