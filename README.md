@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/satyam-rjpt13/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3151-special-array-i](https://github.com/satyam-rjpt13/DSA/tree/master/3151-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/satyam-rjpt13/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
