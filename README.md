@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satyam-rjpt13/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/satyam-rjpt13/DSA/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0541-reverse-string-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/satyam-rjpt13/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Trie
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satyam-rjpt13/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0541-reverse-string-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
 | ------- |
