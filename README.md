@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam-rjpt13/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/satyam-rjpt13/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/satyam-rjpt13/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-special-array-i](https://github.com/satyam-rjpt13/DSA/tree/master/3151-special-array-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0541-reverse-string-ii) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/satyam-rjpt13/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/satyam-rjpt13/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyam-rjpt13/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam-rjpt13/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/satyam-rjpt13/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/satyam-rjpt13/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
