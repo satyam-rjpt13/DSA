@@ -119,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/satyam-rjpt13/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/satyam-rjpt13/DSA/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0338-counting-bits) |
 | [1014-best-sightseeing-pair](https://github.com/satyam-rjpt13/DSA/tree/master/1014-best-sightseeing-pair) |
 | [1025-divisor-game](https://github.com/satyam-rjpt13/DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
