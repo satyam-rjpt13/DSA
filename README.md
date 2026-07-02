@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam-rjpt13/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/satyam-rjpt13/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/satyam-rjpt13/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/satyam-rjpt13/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/satyam-rjpt13/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/satyam-rjpt13/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/satyam-rjpt13/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
