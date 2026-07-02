@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/satyam-rjpt13/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/satyam-rjpt13/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/satyam-rjpt13/DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/satyam-rjpt13/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satyam-rjpt13/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/satyam-rjpt13/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0338-counting-bits) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyam-rjpt13/DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/satyam-rjpt13/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
