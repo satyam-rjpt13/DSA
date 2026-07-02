@@ -1,0 +1,15 @@
+class Solution {
+    public int[] countBits(int n) {
+        int ans[] = new int[n+1];
+        for(int i =0;i<=n;i++){
+            int set_bit = 0;
+            int num = i;
+            while(num !=0){
+                set_bit  += num%2;
+                num = num/2;
+            }
+            ans[i] = set_bit;
+        }
+        return ans;
+    }
+}
