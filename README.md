@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/satyam-rjpt13/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/satyam-rjpt13/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Greedy
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/satyam-rjpt13/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Counting
 |  |
 | ------- |
