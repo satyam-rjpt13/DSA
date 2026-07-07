@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam-rjpt13/DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/satyam-rjpt13/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-rjpt13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/satyam-rjpt13/DSA/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/satyam-rjpt13/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-rjpt13/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Counting
