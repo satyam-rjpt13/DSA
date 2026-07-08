@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/satyam-rjpt13/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0541-reverse-string-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/satyam-rjpt13/DSA/tree/master/2211-count-collisions-on-a-road) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/satyam-rjpt13/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-rjpt13/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam-rjpt13/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/satyam-rjpt13/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Database
 |  |
 | ------- |
