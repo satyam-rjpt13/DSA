@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/satyam-rjpt13/DSA/tree/master/0176-second-highest-salary) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/satyam-rjpt13/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/satyam-rjpt13/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/satyam-rjpt13/DSA/tree/master/1757-recyclable-and-low-fat-products) |
