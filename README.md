@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam-rjpt13/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/satyam-rjpt13/DSA/tree/master/0875-koko-eating-bananas) |
+| [0948-bag-of-tokens](https://github.com/satyam-rjpt13/DSA/tree/master/0948-bag-of-tokens) |
 | [1014-best-sightseeing-pair](https://github.com/satyam-rjpt13/DSA/tree/master/1014-best-sightseeing-pair) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/satyam-rjpt13/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/satyam-rjpt13/DSA/tree/master/1470-shuffle-the-array) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-rjpt13/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0948-bag-of-tokens](https://github.com/satyam-rjpt13/DSA/tree/master/0948-bag-of-tokens) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/satyam-rjpt13/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam-rjpt13/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0045-jump-game-ii) |
+| [0948-bag-of-tokens](https://github.com/satyam-rjpt13/DSA/tree/master/0948-bag-of-tokens) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam-rjpt13/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2706-buy-two-chocolates](https://github.com/satyam-rjpt13/DSA/tree/master/2706-buy-two-chocolates) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
+| [0948-bag-of-tokens](https://github.com/satyam-rjpt13/DSA/tree/master/0948-bag-of-tokens) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyam-rjpt13/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-rjpt13/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam-rjpt13/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
