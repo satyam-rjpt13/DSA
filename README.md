@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/satyam-rjpt13/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-rjpt13/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/satyam-rjpt13/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/satyam-rjpt13/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-rjpt13/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/satyam-rjpt13/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-rjpt13/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [0948-bag-of-tokens](https://github.com/satyam-rjpt13/DSA/tree/master/0948-bag-of-tokens) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/satyam-rjpt13/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/satyam-rjpt13/DSA/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyam-rjpt13/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/satyam-rjpt13/DSA/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
@@ -238,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyam-rjpt13/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
