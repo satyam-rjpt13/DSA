@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/satyam-rjpt13/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/satyam-rjpt13/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-rjpt13/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/satyam-rjpt13/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satyam-rjpt13/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/satyam-rjpt13/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-rjpt13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/satyam-rjpt13/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/satyam-rjpt13/DSA/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-rjpt13/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/satyam-rjpt13/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/satyam-rjpt13/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satyam-rjpt13/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/satyam-rjpt13/DSA/tree/master/1025-divisor-game) |
