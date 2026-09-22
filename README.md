@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam-rjpt13/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/satyam-rjpt13/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/satyam-rjpt13/DSA/tree/master/0875-koko-eating-bananas) |
 | [0948-bag-of-tokens](https://github.com/satyam-rjpt13/DSA/tree/master/0948-bag-of-tokens) |
 | [1014-best-sightseeing-pair](https://github.com/satyam-rjpt13/DSA/tree/master/1014-best-sightseeing-pair) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-rjpt13/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/satyam-rjpt13/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-rjpt13/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/satyam-rjpt13/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/satyam-rjpt13/DSA/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
