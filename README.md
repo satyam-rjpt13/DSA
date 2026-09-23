@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/satyam-rjpt13/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satyam-rjpt13/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/satyam-rjpt13/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/satyam-rjpt13/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/satyam-rjpt13/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/satyam-rjpt13/DSA/tree/master/0520-detect-capital) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satyam-rjpt13/DSA/tree/master/0020-valid-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/satyam-rjpt13/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-rjpt13/DSA/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/satyam-rjpt13/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
